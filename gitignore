@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+# real chats kabhi upload mat karna
+chat.txt
+WhatsApp Chat*.txt
