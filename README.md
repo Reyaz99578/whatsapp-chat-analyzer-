@@ -3,7 +3,7 @@
 A Streamlit web app that turns an exported WhatsApp chat into interactive insights:
 message stats, timelines, activity heatmaps, word clouds, top words and emoji analysis.
 
-🔗 **Live demo:** [https://YOUR-APP-NAME.streamlit.app](https://8y8zcyozk2baqt2sppcimv.streamlit.app/)
+🔗 **Live demo:** (https://8y8zcyozk2baqt2sppcimv.streamlit.app/)
 
 ## ✨ Features
 - Overall or per-user analysis
